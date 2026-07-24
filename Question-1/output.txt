@@ -1,0 +1,4 @@
+=== File Processing Report ===
+Total files: 4
+Duplicate files detected: 1
+Unique backups saved: 3
